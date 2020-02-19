@@ -31,7 +31,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>micro</workerType>
-				<applicationName>Helloworld</applicationName>
+				<applicationName>Helloworld-kishanservice</applicationName>
 				<password>Shivaganesh@20</password>
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
