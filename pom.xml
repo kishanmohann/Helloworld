@@ -34,6 +34,7 @@
 				<applicationName>Helloworld-kishanservice</applicationName>
 				<password>Shivaganesh@20</password>
 				<muleVersion>4.2.2</muleVersion>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
